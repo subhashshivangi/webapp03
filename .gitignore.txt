@@ -1,5 +1,0 @@
-# Maven build output
-target/
-
-# README file
-README.md
